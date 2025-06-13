@@ -1,9 +1,10 @@
 Package: libminer
-Title: What the Package Does (One Line, Title Case)
+Title: Explore your R packages
 Version: 0.0.0.9000
 Authors@R: 
-    person("First", "Last", , "first.last@example.com", role = c("aut", "cre"))
-Description: What the package does (one paragraph).
+    person("Josefin", "Bjurling", , "bjurlingjosefin@gmail.com", role = c("aut", "cre"),
+            comment = c(ORCID = "0009-0006-7675-429X"))
+Description: Function to find path to your R libraries and how many packages you have installed.
 License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
