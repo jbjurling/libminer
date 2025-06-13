@@ -6,7 +6,7 @@
 #'   Logical; default `FALSE`.
 #'
 #' @return A data.frame containing the count of packages in each of the user's
-#'   libraries
+#'   libraries. If "sizes" is set to TRUE, it also return the library size.
 #' @export
 #'
 #' @examples
