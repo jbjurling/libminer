@@ -4,9 +4,9 @@
 \name{libminer-package}
 \alias{libminer}
 \alias{libminer-package}
-\title{libminer: Explore your R packages}
+\title{libminer: Explore your R packages - for RaukR course 2025}
 \description{
-Function to find path to your R libraries and how many packages you have installed.
+Function to find path to your R libraries and how many packages you have installed. Original package created by ateucher.
 }
 \seealso{
 Useful links:

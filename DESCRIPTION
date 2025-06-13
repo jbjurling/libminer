@@ -1,10 +1,10 @@
 Package: libminer
-Title: Explore your R packages
+Title: Explore your R packages - for RaukR course 2025
 Version: 0.0.0.9000
 Authors@R: 
     person("Josefin", "Bjurling", , "bjurlingjosefin@gmail.com", role = c("aut", "cre"),
             comment = c(ORCID = "0009-0006-7675-429X"))
-Description: Function to find path to your R libraries and how many packages you have installed.
+Description: Function to find path to your R libraries and how many packages you have installed. Original package created by ateucher.
 License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
