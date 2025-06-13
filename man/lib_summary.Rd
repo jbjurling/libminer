@@ -12,7 +12,7 @@ Logical; default \code{FALSE}.}
 }
 \value{
 A data.frame containing the count of packages in each of the user's
-libraries
+libraries. If "sizes" is set to TRUE, it also return the library size.
 }
 \description{
 Provides a brief summary of the package libraries on your machine and the number of installed packages
